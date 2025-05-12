@@ -1,0 +1,150 @@
+{
+    "@odata.etag": "W/\"WvgyOMboaUKxC2q38bd3pQAIL821DA==\"",
+    "id": "AAMkADRlMTExZjE4LWQ0OGMtNGYwYS05ZDIxLTEwNTk1Y2Y4OWRkZAFRAAgI3ZQMmfWAAEYAAAAAAhuUf685MEiJTRqez9yfXQcAbAQDPFPwEEmOoyAHM3ov8gAAAAABDQAAWvgyOMboaUKxC2q38bd3pQAG_O5eqAAAEA==",
+    "createdDateTime": "2024-01-19T03:57:09.7900002Z",
+    "lastModifiedDateTime": "2025-05-09T05:36:14.3639395Z",
+    "changeKey": "WvgyOMboaUKxC2q38bd3pQAIL821DA==",
+    "categories": [],
+    "transactionId": null,
+    "originalStartTimeZone": "AUS Eastern Standard Time",
+    "originalEndTimeZone": "AUS Eastern Standard Time",
+    "iCalUId": "040000008200E00074C5B7101A82E00807E90510B0CECC4DC63CDA010000000000000000100000008F9EE4478ABAB042BBA85E1EA955CCBD",
+    "uid": "040000008200E00074C5B7101A82E00800000000B0CECC4DC63CDA010000000000000000100000008F9EE4478ABAB042BBA85E1EA955CCBD",
+    "reminderMinutesBeforeStart": 15,
+    "isReminderOn": true,
+    "hasAttachments": false,
+    "subject": "Friday Huddle - Amended agenda",
+    "bodyPreview": "Hi all, I have changed the times and presenters as we often run out of time to get though the Boab weekly stats.  Pease take note of the new TIMES and PRESENTERS.\r\n\r\nIf you are to present but absent on that day, please delegate to someone else and give th",
+    "importance": "normal",
+    "sensitivity": "normal",
+    "isAllDay": false,
+    "isCancelled": false,
+    "isOrganizer": false,
+    "responseRequested": true,
+    "seriesMasterId": "AQMkADRlMTEBZjE4LWQ0OGMtNGYwYS05ZDIxLTEwNTk1Y2Y4OWRkAQBGAAADAhuUf685MEiJTRqez9yfXQcAbAQDPFPwEEmOoyAHM3ov8gAAAgENAAAAWvgyOMboaUKxC2q38bd3pQAG_O5eqAAAAA==",
+    "showAs": "busy",
+    "type": "occurrence",
+    "webLink": "https://outlook.office365.com/owa/?itemid=AAMkADRlMTExZjE4LWQ0OGMtNGYwYS05ZDIxLTEwNTk1Y2Y4OWRkZAFRAAgI3ZQMmfWAAEYAAAAAAhuUf685MEiJTRqez9yfXQcAbAQDPFPwEEmOoyAHM3ov8gAAAAABDQAAWvgyOMboaUKxC2q38bd3pQAG%2BO5eqAAAEA%3D%3D&exvsurl=1&path=/calendar/item",
+    "onlineMeetingUrl": null,
+    "isOnlineMeeting": true,
+    "onlineMeetingProvider": "teamsForBusiness",
+    "allowNewTimeProposals": true,
+    "occurrenceId": "OID.AQMkADRlMTEBZjE4LWQ0OGMtNGYwYS05ZDIxLTEwNTk1Y2Y4OWRkAQBGAAADAhuUf685MEiJTRqez9yfXQcAbAQDPFPwEEmOoyAHM3ov8gAAAgENAAAAWvgyOMboaUKxC2q38bd3pQAG_O5eqAAAAA==.2025-05-16",
+    "isDraft": false,
+    "hideAttendees": false,
+    "responseStatus": {
+      "response": "accepted",
+      "time": "2025-05-09T05:19:23.0068695Z"
+    },
+    "start": {
+      "dateTime": "2025-05-16T00:00:00.0000000",
+      "timeZone": "UTC"
+    },
+    "end": {
+      "dateTime": "2025-05-16T01:30:00.0000000",
+      "timeZone": "UTC"
+    },
+    "location": {
+      "displayName": "Microsoft Teams Meeting",
+      "locationType": "default",
+      "uniqueId": "Microsoft Teams Meeting",
+      "uniqueIdType": "private"
+    },
+    "locations": [
+      {
+        "displayName": "Microsoft Teams Meeting",
+        "locationType": "default",
+        "uniqueId": "Microsoft Teams Meeting",
+        "uniqueIdType": "private"
+      }
+    ],
+    "recurrence": null,
+    "attendees": [
+      {
+        "type": "required",
+        "status": {
+          "response": "none",
+          "time": "0001-01-01T00:00:00Z"
+        },
+        "emailAddress": {
+          "name": "Sue Hood",
+          "address": "sue.hood@boabit.com.au"
+        }
+      },
+      {
+        "type": "required",
+        "status": {
+          "response": "none",
+          "time": "0001-01-01T00:00:00Z"
+        },
+        "emailAddress": {
+          "name": "Rockstars",
+          "address": "rockstars@boabit.com.au"
+        }
+      },
+      {
+        "type": "required",
+        "status": {
+          "response": "accepted",
+          "time": "0001-01-01T00:00:00Z"
+        },
+        "emailAddress": {
+          "name": "Nicholas Carr",
+          "address": "nic.carr@boabit.com.au"
+        }
+      },
+      {
+        "type": "required",
+        "status": {
+          "response": "none",
+          "time": "0001-01-01T00:00:00Z"
+        },
+        "emailAddress": {
+          "name": "Byron Smith",
+          "address": "byron.smith@boabit.com.au"
+        }
+      },
+      {
+        "type": "optional",
+        "status": {
+          "response": "accepted",
+          "time": "0001-01-01T00:00:00Z"
+        },
+        "emailAddress": {
+          "name": "Mike Szafran",
+          "address": "mike@boabit.com.au"
+        }
+      },
+      {
+        "type": "optional",
+        "status": {
+          "response": "accepted",
+          "time": "0001-01-01T00:00:00Z"
+        },
+        "emailAddress": {
+          "name": "David Lee",
+          "address": "david@boabit.com.au"
+        }
+      },
+      {
+        "type": "optional",
+        "status": {
+          "response": "accepted",
+          "time": "0001-01-01T00:00:00Z"
+        },
+        "emailAddress": {
+          "name": "Accounts",
+          "address": "accounts@boabit.com.au"
+        }
+      }
+    ],
+    "organizer": {
+      "emailAddress": {
+        "name": "Sue Hood",
+        "address": "sue.hood@boabit.com.au"
+      }
+    },
+    "onlineMeeting": {
+      "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjMzODcxMmItM2JiMi00MmVjLTkxZGUtMWVkYzE2MzlmMmJi%40thread.v2/0?context=%7b%22Tid%22%3a%22b8613ed5-a36c-4de9-9a61-37474ff84453%22%2c%22Oid%22%3a%22311865e6-5fa7-4317-9d54-bebafbcee0f2%22%7d"
+    }
+}  

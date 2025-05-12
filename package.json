@@ -1,0 +1,28 @@
+{
+  "name": "toolkit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicholasCarr/toolkit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicholasCarr/toolkit/issues"
+  },
+  "homepage": "https://github.com/NicholasCarr/toolkit#readme",
+  "description": "",
+  "dependencies": {
+    "bwip-js": "^4.6.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.5.0",
+    "node-fetch": "^3.3.2",
+    "short-uuid": "^5.2.0"
+  }
+}
