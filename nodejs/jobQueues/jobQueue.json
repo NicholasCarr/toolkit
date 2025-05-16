@@ -1,0 +1,3804 @@
+{
+    "1257972e-96d4-4ac4-96ef-9f36c599635d": [
+      {
+        "id": "1747350869878",
+        "createdAt": "2025-05-15T23:14:29.879Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621209164",
+          "first_name": "Linda",
+          "last_name": "Huling",
+          "email": "linda.huling@usi.com",
+          "phone_number": "+16613128129"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747350869881",
+        "createdAt": "2025-05-15T23:14:29.881Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621209166",
+          "first_name": "Brenda",
+          "last_name": "Delgado",
+          "email": "brenda.delgado.vacuny@statefarm.com",
+          "phone_number": "+19495531115"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747350869883",
+        "createdAt": "2025-05-15T23:14:29.883Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621209167",
+          "first_name": "Angela",
+          "last_name": "Gaxiola",
+          "email": "angela.gaxiola@usaa.com",
+          "phone_number": "+12102821888"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747350869886",
+        "createdAt": "2025-05-15T23:14:29.886Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621209168",
+          "first_name": "Marisol",
+          "last_name": "Vlachos",
+          "email": "mvlachos@wwfi.com",
+          "phone_number": "+15628791214"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747350869888",
+        "createdAt": "2025-05-15T23:14:29.888Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621209169",
+          "first_name": "Cortney",
+          "last_name": "Pile",
+          "email": "cortney.pile.vabd86@statefarm.com",
+          "phone_number": "+18585876042"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747350869890",
+        "createdAt": "2025-05-15T23:14:29.890Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621285524",
+          "first_name": "Jafet",
+          "last_name": "Cano",
+          "email": "jafet.cano.vafbet@statefarm.com",
+          "phone_number": "+17753767554"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747350869896",
+        "createdAt": "2025-05-15T23:14:29.896Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621285527",
+          "first_name": "Marc",
+          "last_name": "Lueth",
+          "email": "marc.lueth@usi.com",
+          "phone_number": "+17864542140"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747350869902",
+        "createdAt": "2025-05-15T23:14:29.902Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621285528",
+          "first_name": "Scott",
+          "last_name": "Rhoten",
+          "email": "scott.b.rhoten.savn@statefarm.com",
+          "phone_number": "+15039751188"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747350869904",
+        "createdAt": "2025-05-15T23:14:29.904Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621285530",
+          "first_name": "Robert",
+          "last_name": "Tewart",
+          "email": "robert.tewart.wcxt@statefarm.com",
+          "phone_number": "+18553418184"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747350869906",
+        "createdAt": "2025-05-15T23:14:29.906Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621285536",
+          "first_name": "Chandler",
+          "last_name": "Carmell",
+          "email": "chandler.carmell.fyup@statefarm.com",
+          "phone_number": "+17026164663"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747350869909",
+        "createdAt": "2025-05-15T23:14:29.909Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621285537",
+          "first_name": "Jose",
+          "last_name": "Rodriguez Lopez",
+          "email": "joe.rodriguez3@wellsfargo.com",
+          "phone_number": "+18668780775"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747350869912",
+        "createdAt": "2025-05-15T23:14:29.912Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621305888",
+          "first_name": "Kelsey",
+          "last_name": "Smalley",
+          "email": "ksmalley@travelers.com",
+          "phone_number": "+17208796427"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747350869914",
+        "createdAt": "2025-05-15T23:14:29.914Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621305890",
+          "first_name": "Jacqueline",
+          "last_name": "Cooter",
+          "email": "jacqueline.cooter.u7w8@statefarm.com",
+          "phone_number": "+16613647473"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747350869917",
+        "createdAt": "2025-05-15T23:14:29.917Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621305891",
+          "first_name": "Elise",
+          "last_name": "Kausen",
+          "email": "elise.kausen@wellsfargoadvisors.com",
+          "phone_number": "+15592697959"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747350869920",
+        "createdAt": "2025-05-15T23:14:29.920Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621305892",
+          "first_name": "Kristine",
+          "last_name": "Furrer",
+          "email": "kfurrer@woodruffsawyer.com",
+          "phone_number": "+14153996347"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747350869923",
+        "createdAt": "2025-05-15T23:14:29.923Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621305893",
+          "first_name": "Ginamarie",
+          "last_name": "Scott",
+          "email": "gina.scott.izej@statefarm.com",
+          "phone_number": "+19254477663"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747350869926",
+        "createdAt": "2025-05-15T23:14:29.926Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621305895",
+          "first_name": "Stephen",
+          "last_name": "Murray",
+          "email": "stephen.murray@usaa.com",
+          "phone_number": "+12104989204"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747350869928",
+        "createdAt": "2025-05-15T23:14:29.928Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621305898",
+          "first_name": "Colette",
+          "last_name": "Carlson",
+          "email": "colette.carlson.vaam5a@statefarm.com",
+          "phone_number": "+18552598568"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747350869931",
+        "createdAt": "2025-05-15T23:14:29.931Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621305908",
+          "first_name": "Michelle",
+          "last_name": "Levine",
+          "email": "m.matrahazi@nationwide.com",
+          "phone_number": "+19093763494"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747350869933",
+        "createdAt": "2025-05-15T23:14:29.933Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621320297",
+          "first_name": "Dustin",
+          "last_name": "Alexander",
+          "email": "dustin.alexander@thehartford.com",
+          "phone_number": "+16023953413"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747350869936",
+        "createdAt": "2025-05-15T23:14:29.936Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621320302",
+          "first_name": "Paulette",
+          "last_name": "Moreno",
+          "email": "polly.moreno.j6cv@statefarm.com",
+          "phone_number": "+15207807014"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747350869939",
+        "createdAt": "2025-05-15T23:14:29.939Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621320314",
+          "first_name": "Maria",
+          "last_name": "Andersen",
+          "email": "maria.andersen.rd7k@statefarm.com",
+          "phone_number": "+18017134536"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747351803850",
+        "createdAt": "2025-05-15T23:30:03.850Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621285537",
+          "first_name": "Jose",
+          "last_name": "Rodriguez Lopez",
+          "email": "joe.rodriguez3@wellsfargo.com",
+          "phone_number": "+18668780775"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747351803853",
+        "createdAt": "2025-05-15T23:30:03.853Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621305888",
+          "first_name": "Kelsey",
+          "last_name": "Smalley",
+          "email": "ksmalley@travelers.com",
+          "phone_number": "+17208796427"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747351803856",
+        "createdAt": "2025-05-15T23:30:03.856Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621305890",
+          "first_name": "Jacqueline",
+          "last_name": "Cooter",
+          "email": "jacqueline.cooter.u7w8@statefarm.com",
+          "phone_number": "+16613647473"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747351803861",
+        "createdAt": "2025-05-15T23:30:03.861Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621305891",
+          "first_name": "Elise",
+          "last_name": "Kausen",
+          "email": "elise.kausen@wellsfargoadvisors.com",
+          "phone_number": "+15592697959"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747351803865",
+        "createdAt": "2025-05-15T23:30:03.865Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621305892",
+          "first_name": "Kristine",
+          "last_name": "Furrer",
+          "email": "kfurrer@woodruffsawyer.com",
+          "phone_number": "+14153996347"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747351803868",
+        "createdAt": "2025-05-15T23:30:03.868Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621305893",
+          "first_name": "Ginamarie",
+          "last_name": "Scott",
+          "email": "gina.scott.izej@statefarm.com",
+          "phone_number": "+19254477663"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747351803870",
+        "createdAt": "2025-05-15T23:30:03.870Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621305895",
+          "first_name": "Stephen",
+          "last_name": "Murray",
+          "email": "stephen.murray@usaa.com",
+          "phone_number": "+12104989204"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747351803873",
+        "createdAt": "2025-05-15T23:30:03.873Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621305898",
+          "first_name": "Colette",
+          "last_name": "Carlson",
+          "email": "colette.carlson.vaam5a@statefarm.com",
+          "phone_number": "+18552598568"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747351803876",
+        "createdAt": "2025-05-15T23:30:03.876Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621305908",
+          "first_name": "Michelle",
+          "last_name": "Levine",
+          "email": "m.matrahazi@nationwide.com",
+          "phone_number": "+19093763494"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747351803879",
+        "createdAt": "2025-05-15T23:30:03.879Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621320297",
+          "first_name": "Dustin",
+          "last_name": "Alexander",
+          "email": "dustin.alexander@thehartford.com",
+          "phone_number": "+16023953413"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747351803890",
+        "createdAt": "2025-05-15T23:30:03.890Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621320302",
+          "first_name": "Paulette",
+          "last_name": "Moreno",
+          "email": "polly.moreno.j6cv@statefarm.com",
+          "phone_number": "+15207807014"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747351803899",
+        "createdAt": "2025-05-15T23:30:03.899Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621320314",
+          "first_name": "Maria",
+          "last_name": "Andersen",
+          "email": "maria.andersen.rd7k@statefarm.com",
+          "phone_number": "+18017134536"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747351803906",
+        "createdAt": "2025-05-15T23:30:03.906Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621320315",
+          "first_name": "Anjeanette",
+          "last_name": "Bumatai",
+          "email": "abumatai@twfg.com",
+          "phone_number": "+13103377733"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747351803910",
+        "createdAt": "2025-05-15T23:30:03.910Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621333078",
+          "first_name": "Alexi",
+          "last_name": "Sutton",
+          "email": "alexi.rainey@usaa.com",
+          "phone_number": "+12102821888"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747351803922",
+        "createdAt": "2025-05-15T23:30:03.922Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621333079",
+          "first_name": "Tarita",
+          "last_name": "Tellez",
+          "email": "tarita.tellez.pd8j@statefarm.com",
+          "phone_number": "+17023994343"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747351803931",
+        "createdAt": "2025-05-15T23:30:03.931Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621333081",
+          "first_name": "Andrew",
+          "last_name": "Rogers",
+          "email": "andrew.rogers@american-national.com",
+          "phone_number": "+18012575800"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747351803934",
+        "createdAt": "2025-05-15T23:30:03.934Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621333087",
+          "first_name": "Morgan",
+          "last_name": "Brewster",
+          "email": "mbrewste@travelers.com",
+          "phone_number": "+18018889879"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747351803936",
+        "createdAt": "2025-05-15T23:30:03.936Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621333088",
+          "first_name": "Lawrence",
+          "last_name": "Hill",
+          "email": "ford.hill.goop@statefarm.com",
+          "phone_number": "+18019661431"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747351803939",
+        "createdAt": "2025-05-15T23:30:03.939Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621333090",
+          "first_name": "Michael",
+          "last_name": "Druszcz",
+          "email": "michael.j.druszcz.ih9h@statefarm.com",
+          "phone_number": "+16029423398"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747351803941",
+        "createdAt": "2025-05-15T23:30:03.941Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621333091",
+          "first_name": "Maria",
+          "last_name": "Buttes",
+          "email": "carolina.buttes.dhg1@statefarm.com",
+          "phone_number": "+18776031310"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747351803944",
+        "createdAt": "2025-05-15T23:30:03.944Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621333092",
+          "first_name": "Stephania",
+          "last_name": "Arreola",
+          "email": "stephania.arreola.kwoz@statefarm.com",
+          "phone_number": "+17022785209"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747351803947",
+        "createdAt": "2025-05-15T23:30:03.947Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621349545",
+          "first_name": "Yousef",
+          "last_name": "Fararjeh",
+          "email": "yousef.fararjeh@fmglobal.com",
+          "phone_number": "+14085518322"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747351803950",
+        "createdAt": "2025-05-15T23:30:03.950Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621349546",
+          "first_name": "Beverly",
+          "last_name": "Kuehneman",
+          "email": "bev.colton.khjd@statefarm.com",
+          "phone_number": "+18553739970"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747351803953",
+        "createdAt": "2025-05-15T23:30:03.953Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621349549",
+          "first_name": "Scott",
+          "last_name": "Collins",
+          "email": "scott.collins.wal0@statefarm.com",
+          "phone_number": "+18448323315"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747351803955",
+        "createdAt": "2025-05-15T23:30:03.955Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621349551",
+          "first_name": "Jessica",
+          "last_name": "Ibal",
+          "email": "jessica.ibal.vab8p5@statefarm.com",
+          "phone_number": "+15594357500"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747351803958",
+        "createdAt": "2025-05-15T23:30:03.958Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621349555",
+          "first_name": "Huy",
+          "last_name": "Tran",
+          "email": "huy.tran2@wellsfargo.com",
+          "phone_number": "+14403862406"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739193",
+        "createdAt": "2025-05-15T23:45:39.193Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621285537",
+          "first_name": "Jose",
+          "last_name": "Rodriguez Lopez",
+          "email": "joe.rodriguez3@wellsfargo.com",
+          "phone_number": "+18668780775"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739197",
+        "createdAt": "2025-05-15T23:45:39.197Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621305888",
+          "first_name": "Kelsey",
+          "last_name": "Smalley",
+          "email": "ksmalley@travelers.com",
+          "phone_number": "+17208796427"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739199",
+        "createdAt": "2025-05-15T23:45:39.199Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621305890",
+          "first_name": "Jacqueline",
+          "last_name": "Cooter",
+          "email": "jacqueline.cooter.u7w8@statefarm.com",
+          "phone_number": "+16613647473"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739201",
+        "createdAt": "2025-05-15T23:45:39.201Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621305891",
+          "first_name": "Elise",
+          "last_name": "Kausen",
+          "email": "elise.kausen@wellsfargoadvisors.com",
+          "phone_number": "+15592697959"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739206",
+        "createdAt": "2025-05-15T23:45:39.206Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621305892",
+          "first_name": "Kristine",
+          "last_name": "Furrer",
+          "email": "kfurrer@woodruffsawyer.com",
+          "phone_number": "+14153996347"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739210",
+        "createdAt": "2025-05-15T23:45:39.210Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621305893",
+          "first_name": "Ginamarie",
+          "last_name": "Scott",
+          "email": "gina.scott.izej@statefarm.com",
+          "phone_number": "+19254477663"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739212",
+        "createdAt": "2025-05-15T23:45:39.212Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621305895",
+          "first_name": "Stephen",
+          "last_name": "Murray",
+          "email": "stephen.murray@usaa.com",
+          "phone_number": "+12104989204"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739217",
+        "createdAt": "2025-05-15T23:45:39.217Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621305898",
+          "first_name": "Colette",
+          "last_name": "Carlson",
+          "email": "colette.carlson.vaam5a@statefarm.com",
+          "phone_number": "+18552598568"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739220",
+        "createdAt": "2025-05-15T23:45:39.220Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621305908",
+          "first_name": "Michelle",
+          "last_name": "Levine",
+          "email": "m.matrahazi@nationwide.com",
+          "phone_number": "+19093763494"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739223",
+        "createdAt": "2025-05-15T23:45:39.223Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621320297",
+          "first_name": "Dustin",
+          "last_name": "Alexander",
+          "email": "dustin.alexander@thehartford.com",
+          "phone_number": "+16023953413"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739227",
+        "createdAt": "2025-05-15T23:45:39.227Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621320302",
+          "first_name": "Paulette",
+          "last_name": "Moreno",
+          "email": "polly.moreno.j6cv@statefarm.com",
+          "phone_number": "+15207807014"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739229",
+        "createdAt": "2025-05-15T23:45:39.229Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621320314",
+          "first_name": "Maria",
+          "last_name": "Andersen",
+          "email": "maria.andersen.rd7k@statefarm.com",
+          "phone_number": "+18017134536"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739232",
+        "createdAt": "2025-05-15T23:45:39.232Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621320315",
+          "first_name": "Anjeanette",
+          "last_name": "Bumatai",
+          "email": "abumatai@twfg.com",
+          "phone_number": "+13103377733"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739235",
+        "createdAt": "2025-05-15T23:45:39.235Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621333078",
+          "first_name": "Alexi",
+          "last_name": "Sutton",
+          "email": "alexi.rainey@usaa.com",
+          "phone_number": "+12102821888"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739238",
+        "createdAt": "2025-05-15T23:45:39.238Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621333079",
+          "first_name": "Tarita",
+          "last_name": "Tellez",
+          "email": "tarita.tellez.pd8j@statefarm.com",
+          "phone_number": "+17023994343"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739241",
+        "createdAt": "2025-05-15T23:45:39.241Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621333081",
+          "first_name": "Andrew",
+          "last_name": "Rogers",
+          "email": "andrew.rogers@american-national.com",
+          "phone_number": "+18012575800"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739243",
+        "createdAt": "2025-05-15T23:45:39.243Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621333087",
+          "first_name": "Morgan",
+          "last_name": "Brewster",
+          "email": "mbrewste@travelers.com",
+          "phone_number": "+18018889879"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739245",
+        "createdAt": "2025-05-15T23:45:39.245Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621333088",
+          "first_name": "Lawrence",
+          "last_name": "Hill",
+          "email": "ford.hill.goop@statefarm.com",
+          "phone_number": "+18019661431"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739247",
+        "createdAt": "2025-05-15T23:45:39.247Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621333090",
+          "first_name": "Michael",
+          "last_name": "Druszcz",
+          "email": "michael.j.druszcz.ih9h@statefarm.com",
+          "phone_number": "+16029423398"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739251",
+        "createdAt": "2025-05-15T23:45:39.251Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621333091",
+          "first_name": "Maria",
+          "last_name": "Buttes",
+          "email": "carolina.buttes.dhg1@statefarm.com",
+          "phone_number": "+18776031310"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739253",
+        "createdAt": "2025-05-15T23:45:39.253Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621333092",
+          "first_name": "Stephania",
+          "last_name": "Arreola",
+          "email": "stephania.arreola.kwoz@statefarm.com",
+          "phone_number": "+17022785209"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739255",
+        "createdAt": "2025-05-15T23:45:39.255Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621349545",
+          "first_name": "Yousef",
+          "last_name": "Fararjeh",
+          "email": "yousef.fararjeh@fmglobal.com",
+          "phone_number": "+14085518322"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739259",
+        "createdAt": "2025-05-15T23:45:39.259Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621349546",
+          "first_name": "Beverly",
+          "last_name": "Kuehneman",
+          "email": "bev.colton.khjd@statefarm.com",
+          "phone_number": "+18553739970"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739261",
+        "createdAt": "2025-05-15T23:45:39.261Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621349549",
+          "first_name": "Scott",
+          "last_name": "Collins",
+          "email": "scott.collins.wal0@statefarm.com",
+          "phone_number": "+18448323315"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739264",
+        "createdAt": "2025-05-15T23:45:39.264Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621349551",
+          "first_name": "Jessica",
+          "last_name": "Ibal",
+          "email": "jessica.ibal.vab8p5@statefarm.com",
+          "phone_number": "+15594357500"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739266",
+        "createdAt": "2025-05-15T23:45:39.266Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621349555",
+          "first_name": "Huy",
+          "last_name": "Tran",
+          "email": "huy.tran2@wellsfargo.com",
+          "phone_number": "+14403862406"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739269",
+        "createdAt": "2025-05-15T23:45:39.269Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621349556",
+          "first_name": "Linsie",
+          "last_name": "Francy",
+          "email": "linsie.francy.b7id@statefarm.com",
+          "phone_number": "+18584511915"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      },
+      {
+        "id": "1747352739272",
+        "createdAt": "2025-05-15T23:45:39.272Z",
+        "type": "phone_call",
+        "priority": 2,
+        "status": "pending",
+        "retry_attempts": 1,
+        "attempts": [],
+        "error": null,
+        "account": {
+          "account_id": "1257972e-96d4-4ac4-96ef-9f36c599635d",
+          "company_name": "Buzztrail Australia"
+        },
+        "assistant": {
+          "assistant_id": "b67067c0-718f-4cdb-9ba9-0edb9c0e7aeb",
+          "container_id": "eab4662a-fde9-4939-8f72-2824d3c7df9a",
+          "container_name": "usw-keymedia-001",
+          "sip_trunk_id": "ST_XhtDAVeCrrXR"
+        },
+        "campaign": {
+          "source": "hubspot",
+          "campaign_id": "20250514",
+          "tags": [
+            "campaign",
+            "20250514"
+          ],
+          "callScript": ""
+        },
+        "contact": {
+          "id": "121621349557",
+          "first_name": "Aira",
+          "last_name": "Rojas Ariza",
+          "email": "aira.rojasariza.vaaojm@statefarm.com",
+          "phone_number": "+18448323315"
+        },
+        "schedule": {
+          "timezone": "America/Los_Angeles",
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday"
+          ],
+          "hours": {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        }
+      }
+    ]
+  }

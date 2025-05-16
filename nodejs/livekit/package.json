@@ -1,0 +1,17 @@
+{
+  "name": "lk-sip-toolkit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@cartesia/cartesia-js": "^2.2.3",
+    "dotenv": "^16.5.0",
+    "livekit-server-sdk": "^2.12.0"
+  }
+}
