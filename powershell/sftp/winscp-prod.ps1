@@ -34,7 +34,7 @@ $session = New-WinSCPSession -SessionOption $sessionOption
 $localPath = "D:\Github\1-cursor\toolkit\powershell\sftp\downloads"
 $sync = Sync-WinSCPPath -WinSCPSession $session -Mode Local -RemotePath "./OUT" -LocalPath $localPath
 if ($sync.IsSuccess) {
-    Remove-WinSCPItem -Path "./OUT/*" -Confirm:$false
+    # Remove-WinSCPItem -Path "./OUT/*" -Confirm:$false
 }
 
 # Remove the WinSCPSession after completion.

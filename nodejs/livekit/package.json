@@ -12,6 +12,6 @@
   "dependencies": {
     "@cartesia/cartesia-js": "^2.2.3",
     "dotenv": "^16.5.0",
-    "livekit-server-sdk": "^2.12.0"
+    "livekit-server-sdk": "^2.13.0"
   }
 }

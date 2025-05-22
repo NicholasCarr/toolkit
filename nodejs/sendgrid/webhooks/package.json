@@ -1,0 +1,30 @@
+{
+    "name": "bg-webhooks",
+    "version": "1.0.0",
+    "description": "Breach Guard Webhook",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/atr-io/bg-webhooks.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/atr-io/bg-webhooks/issues"
+    },
+    "homepage": "https://github.com/atr-io/bg-webhooks#readme",
+    "dependencies": {
+      "dotenv": "^16.5.0",
+      "express": "^5.1.0",
+      "https": "^1.0.0",
+      "mysql2": "^3.14.1",
+      "nodemon": "^3.1.10",
+      "winston": "^3.17.0"
+    }
+  }
+  
