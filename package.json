@@ -21,8 +21,10 @@
   "dependencies": {
     "bwip-js": "^4.6.0",
     "crypto": "^1.0.1",
+    "csv-parser": "^3.2.0",
     "dotenv": "^16.5.0",
     "node-fetch": "^3.3.2",
+    "openai": "^4.103.0",
     "short-uuid": "^5.2.0"
   }
 }
